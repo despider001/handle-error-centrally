@@ -2,10 +2,6 @@
 
 Error should be handled centrally in Node.js. This is a simple implementation of one of the best practices from [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/errorhandling/centralizedhandling.md)
 
-
-## Environment
-Node.js (version >=16.0.0) should be installed
-
 ## Installation
 ```bash
 # install packages
